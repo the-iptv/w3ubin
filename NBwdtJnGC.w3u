@@ -1,0 +1,15 @@
+{"name": "WiseplayIPTV for Kids📺",
+"author": "admin1509",
+"image": "https://user-images.githubusercontent.com/75318518/151310260-6d73f6b2-925d-4490-a9f4-3e4c84c17620.jpg",
+"telegram": "wiseplay_1","facebook": "nvc2006",
+"url": "https://w3ubin.com/NBwdtJnGC.w3u",
+"groups": [{
+"name":"Info","image": "https://user-images.githubusercontent.com/75318518/151310260-6d73f6b2-925d-4490-a9f4-3e4c84c17620.jpg","stations":[
+    {"name": "fb.com/nvc2006","image": "https://user-images.githubusercontent.com/75318518/151310260-6d73f6b2-925d-4490-a9f4-3e4c84c17620.jpg","url": "https://facebook.com/nvc2006","embed": "true"}
+        ]},
+          {"name": "All IPTVs📺","image": "https://user-images.githubusercontent.com/75318518/158988573-3f46be2b-2c59-494f-a6af-97765ed839aa.png","url": "https://w3ubin.com/gmpvyarov.w3u"},
+          {"name": "Mạc Phúc Khang ... 📺","image": "https://user-images.githubusercontent.com/75318518/151310260-6d73f6b2-925d-4490-a9f4-3e4c84c17620.jpg","url": "https://w3ubin.com/n3yzlIKF1.w3u"},
+          {"name": "Odnoklassniki","image": "https://user-images.githubusercontent.com/75318518/169542627-796f6f91-d049-4559-a846-90aac299a5e9.png","url": "https://w3ubin.com/Rw1s6EUpu.w3u","referer": "https://raw.githubusercontent.com/the-iptv/w3ubin/main/okruw3u.w3u"},
+          {"name": "90p","image": "https://user-images.githubusercontent.com/75318518/164952953-dc0077a9-d521-457b-9789-ad4fc0f0d33a.png","url": "https://raw.githubusercontent.com/the-iptv/90p/main/index.m3u"},
+          {"name": "VOD","image": "https://user-images.githubusercontent.com/75318518/151502596-4ec8e5d4-efdb-439c-812b-6e75b7e5c1d9.png","url": "https://the-iptv.github.io/vod/index.m3u"}
+           ]}
